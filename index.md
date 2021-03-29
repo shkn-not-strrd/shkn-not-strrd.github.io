@@ -2,11 +2,11 @@
 
 ## Phone: Galaxy-56405, ext. 432
 
-## Address: 
+## Address: 35th Fl | Avengers Tower | NYC, NY
 
-35th Fl 
-Avengers Tower 
-NYC, NY
+![Captain Marvel](./img/cap_marv.jpg "Captain Marvel")
+
+[Personal Facts](./personal.md)
 
 ### Education:
 USAF Academy, top of class
@@ -29,24 +29,5 @@ USAF Academy, top of class
 + General, Supreme Accuser of the Kree Army
 + Has Nick Fury's personal number
 
-### Aliases:
-+ Ms. Marvel
-+ Binary
-+ Warbird
-+ Captain Marvel
 
-### Hobbies:
-+ Hanging out with Monica Rambeau & Spider-Woman
-+ Cleaning up space-junk
-+ Fighting mansplainers
-+ Providing female professional development through the Carol Corps
-
-### Projects: 
-+ (Advocate/Evangelist) Superhuman Registration Act
-
-### Dislikes: 
-+ Rogue
-+ Mystique
-+ People being hurt
-+ Copycat villains (see: Star)
 
