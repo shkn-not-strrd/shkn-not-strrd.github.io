@@ -1,6 +1,6 @@
 # Personal Info
 
-<img src=“./img/IMG_4769.jpeg” alt=“The author standing with her motorcycle” width=“200”/>
+![The author standing with her motorcycle](./img/IMG_4769.jpeg)
 
 *IFRD 2022 - Photo courtesy 1133 Studios*
 
