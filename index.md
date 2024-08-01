@@ -4,9 +4,9 @@
 
 ### *Seeking remote positions | Have keyboard, will travel | [E-mail](mailto:asimmons.dev@icloud.com) | [LinkedIn](http://linkedin.com/in/asimmons-113)*
 
-<img src=“./img/IMG_9078.jpeg” alt=“Headshot” width=“200”/>
+![Headshot](./img/IMG_9078.jpeg)
 
-###[More About Me](./personal.md)
+### [More About Me](./personal.md)
 
 ### Work Experience:
 
